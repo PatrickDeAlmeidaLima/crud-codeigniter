@@ -1,5 +1,6 @@
 # Crud with CodeIgniter
  CRUD - Simple using the framework CodeIgniter
+ For use just put main folder in localhost and acess public/contratos and use.
 
 
 # CodeIgniter 4 Development
